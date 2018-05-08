@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Botos Csaba</title>
+    <link>https://users.itk.ppke.hu/~botcs/about/home/</link>
+    <description>Recent content in Homes on Botos Csaba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://users.itk.ppke.hu/~botcs/about/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/hero/</guid>
+      <description>. </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/about/</guid>
+      <description>Bio As an undergraduate at PPCU I have interned at the Hungarian Academy of Sciences where I studied tomographic reconstruction techniques of nervous tissues in the WQFA. Later we were awarded first prize of the Students&amp;rsquo; Scientific Associations for our contributions with the team I joined for the Challenge of Computing in Cardiology 2017
+In 2017 my summer internship at Verizon Smart communities have been upgraded to research fellow of the computer vision lab.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/teaching/</guid>
+      <description> PPCU Neural networks (undergrad lecture)  Intro to MLPs Defining ConvNets  Verizon workshop (introductory level)  Generative Modeling  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://users.itk.ppke.hu/~botcs/about/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://users.itk.ppke.hu/~botcs/about/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
